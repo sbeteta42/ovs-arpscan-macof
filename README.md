@@ -330,19 +330,12 @@ Le MAC flooding peut créer des conditions favorables à l’observation de cert
 OVS-ARPSCAN-MACOF/
 ├── README.md
 ├── docs/
-│   ├── cours-tp-arp.docx
 │   ├── topologie-laboratoire.png
-│   └── plan-adressage.md
+│   
 ├── configs/
 │   ├── ovs-installation.sh
 │   ├── ovs-remediation.sh
 │   └── ovs-rollback.sh
-├── captures/
-│   └── README.md
-├── livrables/
-│   ├── inventaire_avant.txt
-│   ├── inventaire_apres.txt
-│   └── rapport-modele.md
 └── LICENSE
 ```
 
