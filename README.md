@@ -67,7 +67,7 @@ Open vSwitch assure uniquement la **commutation de couche 2**. FreeSCO reste l�
 
 - un hyperviseur : VMware Workstation, VirtualBox, Proxmox ou équivalent ;
 - un réseau virtuel **Host-only** ou totalement isolé ;
-- une VM FreeSCO ;
+- une VM [FreeSCO](https://mega.nz/file/q05ETTBJ#uutzKpCbl9KhOAyUpCT8auLz3TKtnDxTfkvDjtC5wSQ) ;
 - une VM Debian ou Ubuntu équipée de quatre interfaces pour Open vSwitch ;
 - une VM Kali Linux ;
 - une VM Windows 11 ;
