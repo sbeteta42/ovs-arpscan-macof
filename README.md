@@ -52,7 +52,7 @@ Open vSwitch assure uniquement la **commutation de couche 2**. FreeSCO reste l�
 
 | Équipement | Interface OVS | Adresse IPv4 | Rôle | Statut |
 |---|---:|---:|---|---|
-| 🌐 FreeSCO | `ens33` | `192.168.1.1/24` | Routeur et passerelle | Autorisé |
+| 🌐 FreeSCO [FreeSCO](https://mega.nz/file/q05ETTBJ#uutzKpCbl9KhOAyUpCT8auLz3TKtnDxTfkvDjtC5wSQ)| `ens33` | `192.168.1.1/24` | Routeur et passerelle | Autorisé |
 | 🔀 Open vSwitch `br0` | Interne | `192.168.1.2/24` | Commutateur et administration | Autorisé |
 | 🐉 Kali Linux | `ens34` | `192.168.1.10/24` | Analyse, `arp-scan` et démonstration | Autorisé |
 | 🪟 Windows 11 | `ens35` | `192.168.1.11/24` | Poste client | Autorisé |
