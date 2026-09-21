@@ -1,7 +1,7 @@
 # Iniatialisation des scripts en mode eXecutable
 chmod +x *.sh
 
-# Simulation d'un dcript (exemple)
+# Simulation d'un script (exemple)
 sudo ./ovs-installation.sh --apply
 
 # Application (exemple)  
