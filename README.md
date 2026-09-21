@@ -387,7 +387,7 @@ Les propositions d’amélioration sont les bienvenues :
 
 ## 👨‍🏫 Auteur
 
-**Stéphane Beteta — Formateur et ingénieur en informatique et cybersécurité**
+**Stéphane Beteta - Formateur et ingénieur en informatique et cybersécurité**
 
 Projet pédagogique consacré à ARP, à Open vSwitch, à la découverte réseau et à la remédiation défensive.
 
