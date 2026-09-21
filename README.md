@@ -369,7 +369,7 @@ Ne pas publier de capture contenant des données réelles, des identifiants, des
 
 Ce projet est destiné à la **formation**, à l’**administration réseau** et à la **défense**. Toute expérimentation doit être réalisée sur une infrastructure appartenant à l’utilisateur ou pour laquelle une autorisation explicite a été obtenue.
 
-L’auteur et les contributeurs ne sauraient être tenus responsables d’un usage non autorisé ou malveillant.
+L’auteur et les contributeurs ne sauraient être tenus responsables d'un usage non autorisé ou malveillant.
 
 ---
 
