@@ -52,9 +52,9 @@ Open vSwitch assure uniquement la **commutation de couche 2**. FreeSCO reste l�
 
 | Équipement | Interface OVS | Adresse IPv4 | Rôle | Statut |
 |---|---:|---:|---|---|
-| 🌐 FreeSCO [FreeSCO](https://mega.nz/file/q05ETTBJ#uutzKpCbl9KhOAyUpCT8auLz3TKtnDxTfkvDjtC5wSQ)| `ens33` | `192.168.1.1/24` | Routeur et passerelle | Autorisé |
-| 🔀 Open vSwitch `br0` | Interne | `192.168.1.2/24` | Commutateur et administration | Autorisé |
-| 🐉 Kali Linux | `ens34` | `192.168.1.10/24` | Analyse, `arp-scan` et démonstration | Autorisé |
+| 🌐 [FreeSCO](https://mega.nz/file/q05ETTBJ#uutzKpCbl9KhOAyUpCT8auLz3TKtnDxTfkvDjtC5wSQ)| `ens33` | `192.168.1.1/24` | Routeur et passerelle | Autorisé |
+| 🔀 [Open vSwitch](https://mega.nz/file/zhIzkRQB#fUdm46BGqCb8YpISqKb7i-3Y31Meh9SA478k3CplRcs) `br0` | Interne | `192.168.1.2/24` | Commutateur et administration | Autorisé |
+| 🐉 [Kali Linux](https://mega.nz/file/WhwF0QDB#G83O-4tRzdf4J9paxx3iHnvKCFZqeIJ5hx3AT-klXOc) | `ens34` | `192.168.1.10/24` | Analyse, `arp-scan` et démonstration | Autorisé |
 | 🪟 Windows 11 | `ens35` | `192.168.1.11/24` | Poste client | Autorisé |
 | ⚠️ Équipement inconnu | `ens36` | `192.168.1.50/24` | Détection ou observation | À qualifier |
 | 🧪 Réseau du laboratoire | — | `192.168.1.0/24` | Domaine de diffusion ARP | Isolé |
@@ -68,8 +68,8 @@ Open vSwitch assure uniquement la **commutation de couche 2**. FreeSCO reste l�
 - un hyperviseur : VMware Workstation, VirtualBox, Proxmox ou équivalent ;
 - un réseau virtuel **Host-only** ou totalement isolé ;
 - une VM [FreeSCO](https://mega.nz/file/q05ETTBJ#uutzKpCbl9KhOAyUpCT8auLz3TKtnDxTfkvDjtC5wSQ) ;
-- une VM Debian ou Ubuntu équipée de quatre interfaces pour Open vSwitch ;
-- une VM Kali Linux ;
+- une  [VM Debian](https://mega.nz/file/zhIzkRQB#fUdm46BGqCb8YpISqKb7i-3Y31Meh9SA478k3CplRcs) ou Ubuntu équipée de quatre interfaces pour Open vSwitch ;
+- une VM [Kali Linux](https://mega.nz/file/WhwF0QDB#G83O-4tRzdf4J9paxx3iHnvKCFZqeIJ5hx3AT-klXOc) ;
 - une VM Windows 11 ;
 - éventuellement une machine supplémentaire servant d’équipement inconnu ou d’observateur.
 
