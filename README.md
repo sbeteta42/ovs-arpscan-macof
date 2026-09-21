@@ -77,7 +77,7 @@ Open vSwitch assure uniquement la **commutation de couche 2**. FreeSCO reste lâ€
 
 ```bash
 sudo apt update
-sudo apt install -y openvswitch-switch arp-scan tcpdump wireshark dsniff
+sudo apt install -y openvswitch-switch arp-scan tcpdump tshark dsniff
 ```
 
 ---
