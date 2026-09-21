@@ -4,7 +4,7 @@ chmod +x *.sh
 # Simulation d'un script (exemple)
 sudo ./ovs-installation.sh --apply
 
-# Application (exemple)  
+# Application d'un script (exemple)  
 sudo ./ovs-installation.sh
  
 # Remédiation avec la véritable MAC de Kali
