@@ -94,7 +94,6 @@ sudo ovs-vsctl --may-exist add-port br0 ens35
 sudo ovs-vsctl --may-exist add-port br0 ens36
 
 sudo ip link set br0 up
-sudo ip addr replace 192.168.1.2/24 dev br0
 ```
 
 Les interfaces physiques membres du bridge ne doivent pas porter les adresses IP des postes. L’adresse d’administration du serveur OVS est affectée à `br0`.
