@@ -83,7 +83,7 @@ elif (( ASSUME_YES == 0 )); then
 fi
 
 run systemctl enable --now openvswitch-switch
-run ovs-vsctl --may-exist add-br "$BRIDGE"
+#run ovs-vsctl --may-exist add-br "$BRIDGE"
 
 for interface_name in "${LAB_INTERFACES[@]}"; do
   run ip link set "$interface_name" up
